@@ -38,7 +38,7 @@
 		"graphql-tag": "^2.10.1",
 		"isomorphic-unfetch": "^3.0.0",
 		"jalali-moment": "^3.3.7",
-		"lodash": "^4.17.15",
+		"lodash": "^4.17.21",
 		"module-alias": "^2.2.2",
 		"next": "^9.3.6",
 		"next-transpile-modules": "^2.3.1",
